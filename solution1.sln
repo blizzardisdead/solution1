@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumbersAndSquare", "square\NumbersAndSquare.csproj", "{0CADD874-9394-4D4E-BA81-234BA569D286}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "refund", "refund\refund.csproj", "{9EE7FF11-83E5-4102-8F98-04E127AAB2A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CADD874-9394-4D4E-BA81-234BA569D286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CADD874-9394-4D4E-BA81-234BA569D286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CADD874-9394-4D4E-BA81-234BA569D286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CADD874-9394-4D4E-BA81-234BA569D286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EE7FF11-83E5-4102-8F98-04E127AAB2A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE7FF11-83E5-4102-8F98-04E127AAB2A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE7FF11-83E5-4102-8F98-04E127AAB2A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE7FF11-83E5-4102-8F98-04E127AAB2A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E902641-E74C-4AD2-A4E1-ADAF9106558F}
+	EndGlobalSection
+EndGlobal
