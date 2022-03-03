@@ -11,7 +11,7 @@ namespace Library
             {
                 Console.Write(digit + ", ");
             }
-            Console.Write(ParameterN + ".");
+            Console.Write(ParameterN);
             Console.WriteLine();
         }
         // Данная функция возвращает число.
