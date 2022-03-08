@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\refund\refund.csproj" />
+    <ProjectReference Include="..\refund\LibraryFunctions.csproj" />
   </ItemGroup>
 
 </Project>

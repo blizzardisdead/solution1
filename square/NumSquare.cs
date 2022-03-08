@@ -11,10 +11,10 @@ namespace NumberSquare
             Console.WriteLine("Введите положительный параметр N");
             try
             {
-                uint ParameterN = uint.Parse(Console.ReadLine());
-                ComplexFunctions apply = new ComplexFunctions();
-                apply.UseNumber(ParameterN);
-                apply.UseSquare(ParameterN);
+                uint n = uint.Parse(Console.ReadLine());
+                ComplexFunctions function = new ComplexFunctions();
+                Console.WriteLine(function.UseNumber(n));
+                function.UseSquare(n);
 
             }
             catch
