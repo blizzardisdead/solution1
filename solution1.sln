@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumbersAndSquare", "square\NumbersAndSquare.csproj", "{0CADD874-9394-4D4E-BA81-234BA569D286}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumbersAndSquare", "NumberSquare\NumbersAndSquare.csproj", "{0CADD874-9394-4D4E-BA81-234BA569D286}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryFunctions", "refund\LibraryFunctions.csproj", "{9EE7FF11-83E5-4102-8F98-04E127AAB2A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryFunctions", "Library\LibraryFunctions.csproj", "{9EE7FF11-83E5-4102-8F98-04E127AAB2A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
